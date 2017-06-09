@@ -77,7 +77,7 @@ VERSION=2.2.6b
 TIMESTAMP=""
 package_revision=1.3017
 
-# Be Bourne compatible
+# Be Bourne compatible --- ---by flixs111
 if test -n "${ZSH_VERSION+set}" && (emulate sh) >/dev/null 2>&1; then
   emulate sh
   NULLCMD=:
